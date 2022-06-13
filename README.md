@@ -8,3 +8,4 @@
 K1eyNG/K1eyNG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+热爱学习 热爱生活
